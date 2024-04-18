@@ -22,4 +22,4 @@
 
 # dastur ishlashi:
 
-![gif](Анимация.gif)
+![gif](anim.gif)
